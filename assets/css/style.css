@@ -17,7 +17,7 @@ body {
 div#pagebody {
 	width:796px; margin:0 auto;	/*内容全体をセンタリング*/
 	text-align:left;	/*テキストの配置を左揃えにする*/
-	background-image:url("https://takagotch.github.io/page58/assets/img/hs.jpg");	/*内容全体の背景*/
+	background-image:url("#");	/*内容全体の背景*/
 	background-repeat:repeat-y;		/*背景画像を縦方向に繰り返す*/
 	background-color:#ffffff;		/*内容全体の背景色*/
 }
